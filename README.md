@@ -7,7 +7,7 @@
 
 2. **INFORMATION**
     - You do not need WiFi and Python to both run the EdgeImpulse.
-    - Take note that the EdgeImpulse only depends on how you taught it, it wont be accurate unless you train it. 
+    - Take note that the EdgeImpulse only depends on how you taught, it wont be accurate unless you train it. 
     - // Coming soon
 
 
