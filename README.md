@@ -1,12 +1,12 @@
 # ESP32-S and Arduino-Uno EdgeImpuse Waste Segregator  
 1. Requirements 
- - ESP32-S - Object Detector
- - Arduino-Uno - Microcontroller
- - Inductive Sensor - Metal Sensor
- - SR-S153 - Transparency Sensor 
+  - ESP32-S - Object Detector
+  - Arduino-Uno - Microcontroller
+  - Inductive Sensor - Metal Sensor
+  - SR-S153 - Transparency Sensor 
 
 2. **INFORMATION**
- - You do not need WiFi and Python to both run the EdgeImpulse.
+  - You do not need WiFi and Python to both run the EdgeImpulse.
    // Coming soon
 
 
