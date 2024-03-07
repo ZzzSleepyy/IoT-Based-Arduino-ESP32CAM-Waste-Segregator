@@ -6,7 +6,7 @@
  - SR-S153 - Transparency Sensor 
 
 2. **INFORMATION**
-   - You do not need WiFi and Python to both run the EdgeImpulse.
+ - You do not need WiFi and Python to both run the EdgeImpulse.
    // Coming soon
 
 
