@@ -7,5 +7,5 @@ Requirements
 \
 > Inductive Sensor - Metal Sensor
 \
-> SR-S153 - Transparency Sensor \n
+> SR-S153 - Transparency Sensor 
 
