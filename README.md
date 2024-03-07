@@ -15,5 +15,9 @@ Requirements
 
 
 2. **VIDEOS**
-   - https://github.com/ZzzSleepyy/IoT-Based-Arduino-ESP32CAM-Waste-Segregator/assets/100042636/d1505c97-f648-4446-a392-cd7a432703a5
+
+
+https://github.com/ZzzSleepyy/IoT-Based-Arduino-ESP32CAM-Waste-Segregator/assets/100042636/e84d23d9-ee10-4626-9ea6-7ccf5f9c730e
+
+
 
