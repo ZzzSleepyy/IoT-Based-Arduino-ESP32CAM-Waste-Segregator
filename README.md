@@ -1,4 +1,4 @@
-# ESP32-S and Arduino-Uno EdgeImpuse Waste Segregator  
+# ESP32-S and Arduino-Uno EdgeImpuse Object Detector
 1. Requirements 
     - ESP32-S - Object Detector
     - Arduino-Uno - Microcontroller
